@@ -131,7 +131,13 @@ over memory and hardware. It builds on the older C language and adds object-orie
 
 **Rust** is a modern systems programming language focused on safety and performance.
 It prevents common bugs like memory errors at compile time, without needing a garbage collector.
-
+### Why Rust become famous
+Traditional languages like C and C++ are fast but allow dangerous memory errors:
+- Buffer overflows
+- use after free bugs
+- Null pointer issues
+- Data races in multithreading
+Rust prevents most of these at compile time without needing a garbage collector (a program that automatically removes unwanted data held temporarily in memory during processing.)
 ### What It's Used For
 - Systems programming (operating systems, drivers)
 - Web servers and command-line tools
