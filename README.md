@@ -66,13 +66,6 @@ websites can be interactive — buttons click, pages update, animations play.
 1. No installation needed — open your browser's DevTools (F12) and start typing
 2. Or install [Node.js](https://nodejs.org/) to run JavaScript on your computer
 3. Try: `console.log("Hello, World!")`
-
-### Useful Links
-- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-- [JavaScript.info](https://javascript.info/)
-
----
-
 ## Java
 
 **Java** is a robust, object-oriented language that has been a cornerstone of enterprise software
@@ -99,6 +92,13 @@ and Android development for over 25 years. It follows the philosophy: *write onc
 - [W3Schools Java](https://www.w3schools.com/java/)
 
 ---
+### Useful Links
+- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [JavaScript.info](https://javascript.info/)
+
+---
+
+
 
 ## C++
 
