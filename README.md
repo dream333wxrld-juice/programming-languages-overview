@@ -8,7 +8,7 @@ main
 
 ## Go
 
-**Go** (also called Golang) is a language built by Google in 2009. It is designed to be simple,
+**Go** (also called Golang) a language built by Google in 2009. It is designed to be simple,
 fast, and efficient — especially for building web servers and cloud services.
 ### What It's Used For
 - Cloud and backend services (Docker and Kubernetes are written in Go)
