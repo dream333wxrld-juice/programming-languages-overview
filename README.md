@@ -1,6 +1,6 @@
 # Programming Languages Overview
 
-A collaborative guide by [Team Member 1], [Team Member 2], [Finah Mitchelle ], [Alice[Team Member 5], Antony Juma, [Team Member 7].
+A collaborative guide by - [Team Member 1], [Team Member 2], [Finah Mitchelle ], [Alice[Team Member 5], [Antony juma](https://github.com/itskaysir), [NancyNdungu].
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -19,8 +19,8 @@ what it is used for, and how to get started.
 
 ---
 
-## Python
 
+ add-python-section
 **Python** is a high-level, general-purpose language known for its simple, readable syntax. It is one of the most beginner-friendly languages in the world and is widely used across many fields.
 
 ### What It's Used For
@@ -43,6 +43,7 @@ what it is used for, and how to get started.
 - [Python Official Docs](https://docs.python.org)
 - [W3Schools Python](https://www.w3schools.com/python)
 
+main
 
 ## JavaScript
 ## JavaScript
@@ -172,6 +173,7 @@ to make large JavaScript projects easier to manage and less error-prone.
 1. Install Node.js, then run `npm install -g typescript`
 2. Create a file `hello.ts` and write: `console.log("Hello, World!")`
 3. Compile with `tsc hello.ts` and run with `node hello.js`
+
 
 ### Useful Links
 - [TypeScript Official Docs](https://www.typescriptlang.org/docs/)
