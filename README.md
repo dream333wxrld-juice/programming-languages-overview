@@ -21,6 +21,7 @@ what it is used for, and how to get started.
 
 
  add-python-section
+ ## Python
 **Python** is a high-level, general-purpose language known for its simple, readable syntax. It is one of the most beginner-friendly languages in the world and is widely used across many fields.
 
 ### What It's Used For
