@@ -1,6 +1,6 @@
 # Programming Languages Overview
 
-A collaborative guide by [Team Member 1], [Team Member 2], [Finah2 ], [Alice[Team Member 5], Antony Juma, [Team Member 7].
+A collaborative guide by [Team Member 1], [Team Member 2], [Finah Mitchelle ], [Alice[Team Member 5], Antony Juma, [Team Member 7].
 
 ## Table of Contents
 - [Introduction](#introduction)
