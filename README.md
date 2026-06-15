@@ -47,6 +47,7 @@ It is one of the most beginner-friendly languages in the world and is widely use
 ---
 
 ## JavaScript
+## JavaScript
 
 **JavaScript** is the language of the web. It runs inside every browser and is the reason
 websites can be interactive — buttons click, pages update, animations play.
@@ -58,7 +59,7 @@ websites can be interactive — buttons click, pages update, animations play.
 - Browser extensions and games
 
 ### Why Learn It
-- The only language that runs natively in the browser
+- The only language that runs natively in the browser.
 - You can build both frontend and backend with one language
 - Massive ecosystem of libraries and frameworks
 
