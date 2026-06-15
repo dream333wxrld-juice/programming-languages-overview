@@ -1,6 +1,10 @@
 # Programming Languages Overview
 
+add-rust-section
+A collaborative guide by [Team Member 1], [Team Member 2], [Team Member 3], [Team Member 4], [Team Member 5], Antony Juma, [Team Member 7].
+
 A collaborative guide by - [Gilbert Mungai], [Team Member 2], [Finah Mitchelle ], [Alice[Team Member 5], [Antony juma](https://github.com/itskaysir), [NancyNdungu].
+main
 
 ## Table of Contents
 - [Introduction](#introduction)
