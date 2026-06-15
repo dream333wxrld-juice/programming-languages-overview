@@ -1,6 +1,6 @@
 # Programming Languages Overview
 
-A collaborative guide by - [Gilbert Mungai], [Team Member 2], [Finah Mitchelle ],[Alice], [Antony juma], [NancyNdungu], [Kennedy_Frazier.
+A collaborative guide by - [Gilbert Mungai], [Team Member 2], [Finah Mitchelle ],[Alice], [Antony juma], [NancyNdungu], [Kennedy_Frazier].
 main
 
 ## Table of Contents)
