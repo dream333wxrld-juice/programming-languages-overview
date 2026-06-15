@@ -20,6 +20,30 @@ what it is used for, and how to get started.
 ---
 
 
+ add-python-section
+**Python** is a high-level, general-purpose language known for its simple, readable syntax. It is one of the most beginner-friendly languages in the world and is widely used across many fields.
+
+### What It's Used For
+- Data science and machine learning (NumPy, Pandas, TensorFlow)
+- Web development (Django, Flask)
+- Automation and scripting
+- Artificial intelligence and research
+
+### Why Learn It
+- Easy to read — the code looks almost like plain English
+- Huge community with tons of free resources
+- Used in top companies like Google, Netflix, and NASA
+
+### How to Get Started
+- Download Python at [python.org](https://python.org)
+- Use VS Code with the Python extension
+- Try: `print("Hello, World!")`
+
+### Useful Links
+- [Python Official Docs](https://docs.python.org)
+- [W3Schools Python](https://www.w3schools.com/python)
+
+main
 
 ## JavaScript
 ## JavaScript
