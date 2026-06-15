@@ -21,8 +21,7 @@ what it is used for, and how to get started.
 
 ## Python
 
-**Python** is a high-level, general-purpose language known for its simple, readable syntax.
-It is one of the most beginner-friendly languages in the world and is widely used across many fields.
+**Python** is a high-level, general-purpose language known for its simple, readable syntax. It is one of the most beginner-friendly languages in the world and is widely used across many fields.
 
 ### What It's Used For
 - Data science and machine learning (NumPy, Pandas, TensorFlow)
@@ -33,18 +32,17 @@ It is one of the most beginner-friendly languages in the world and is widely use
 ### Why Learn It
 - Easy to read — the code looks almost like plain English
 - Huge community with tons of free resources
-- In high demand across tech, finance, healthcare, and more
+- Used in top companies like Google, Netflix, and NASA
 
 ### How to Get Started
-1. Download Python at [python.org](https://www.python.org/)
-2. Install [VS Code](https://code.visualstudio.com/) as your editor
-3. Try your first script: `print("Hello, World!")`
+- Download Python at [python.org](https://python.org)
+- Use VS Code with the Python extension
+- Try: `print("Hello, World!")`
 
 ### Useful Links
-- [Python Documentation](https://docs.python.org/3/)
-- [freeCodeCamp Python Course](https://www.freecodecamp.org/learn)
+- [Python Official Docs](https://docs.python.org)
+- [W3Schools Python](https://www.w3schools.com/python)
 
----
 
 ## JavaScript
 ## JavaScript
