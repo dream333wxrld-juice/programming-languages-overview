@@ -69,7 +69,7 @@ JavaScript is the language of the web. It runs inside every browser and is the r
 
 ---
 
-## Java
+--## Java
 
 Java is a robust, object-oriented language that has been a cornerstone of enterprise software and Android development for over 25 years.
 
@@ -93,7 +93,7 @@ Java is a robust, object-oriented language that has been a cornerstone of enterp
 - [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/)
 - [W3Schools Java](https://www.w3schools.com/java)
 
----
+-
 
 ## C++
 
