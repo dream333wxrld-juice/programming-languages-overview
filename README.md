@@ -10,7 +10,7 @@ A collaborative guide by - [Gilbert Mungai], [Emma Kariuki], [Finah Mitchelle], 
 - [C++](#c)
 - [Rust](#rust)
 - [TypeScript](#typescript)
-- [Go](#go)
+- [Go](#golang)
 
 ## Introduction
 This guide is a beginner-friendly overview of seven popular programming languages. Each section is written by a different team member and covers what the language is, what it is used for, and how to get started.
@@ -172,7 +172,7 @@ TypeScript is a superset of JavaScript that adds static typing.
 
 ---
 
-## Go
+## Go(golang)
 
 Go (also called Golang) is a language built by Google in 2009. It is designed to be simple, fast, and efficient.
 
