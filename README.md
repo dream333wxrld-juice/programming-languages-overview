@@ -1,6 +1,6 @@
 # Programming Languages Overview
 
-A collaborative guide by - [Gilbert Mungai], [Emma Kariuki], [Finah Mitchelle], [Alice Wanjiku], [Antony juma], [NancyNdungu], [Kennedy_Frazier].
+A collaborative guide by - [Gilbert Mungai], [Emma Kariuki], [Finah Mitchelle], [Alice Wanjiku], [Antony juma](https://github.com/itskaysir), [NancyNdungu], [Kennedy_Frazier].
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -69,7 +69,7 @@ JavaScript is the language of the web. It runs inside every browser and is the r
 
 ---
 
---## Java
+## Java
 
 Java is a robust, object-oriented language that has been a cornerstone of enterprise software and Android development for over 25 years.
 
